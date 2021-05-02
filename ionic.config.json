@@ -1,0 +1,7 @@
+{
+  "name": "heron",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
